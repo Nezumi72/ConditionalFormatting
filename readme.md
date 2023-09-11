@@ -189,3 +189,5 @@ Bug Fixes
 - When removing the last rule of a list of rules the original display state wasn’t automatically being forced back to scene objects
 - adding a belongs to collection rule was creating some background errors.
 - initially adding a rule to check polygon count also should verify the value is numeric to avoid background errors
+
+[Back to Contents](#contents)
