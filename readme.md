@@ -14,7 +14,7 @@ Is a variation of @Salai_V_V1 Salai Vedha Viradhan concept and original work pos
 	* [Rule Application](#rule-application)
 	* [UI List sub-panel](#ui-list-sub-panel)
 	* [Generate Report](#generate-report)
-	* [Set Selected](#set-selected)
+	* [Select](#select)
 	* [Apply Effects](#apply-effects)
 * [Basic Operation](#basic-operation)
 	* [Evaluate by Name](#evaluate-by-name)
