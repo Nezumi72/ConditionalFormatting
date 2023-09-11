@@ -1,9 +1,0 @@
-Known Issues:
-
-- changing an objects name does not force depsgraph update.
-- setting an objects selectable state (object or collection) after a rule is applied does not force depsgraph update.
-- (work around toggle `Enable Rule Set` button)
-- (possible long term solution may be to subscribe to msg bus for changes but this may be too broad)
-
-- if an object is added to the scene while the "Enable rule set" is active its stored state is that of the applied rules.
-- (work around disable `Enable Rule Set` button before adding objects to ensure original state is saved as unaffected by rules)
